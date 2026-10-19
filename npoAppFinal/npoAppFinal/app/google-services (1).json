@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "241615263072",
+    "project_id": "npo-connect-2c0f3",
+    "storage_bucket": "npo-connect-2c0f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241615263072:android:3dcdfe44e1d837a769fa05",
+        "android_client_info": {
+          "package_name": "com.example.donoradminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcQ-dZzQg-RExBY12Ylkk0__xvcv6jCzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241615263072:android:eddedea16d7a594569fa05",
+        "android_client_info": {
+          "package_name": "com.example.npoappfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcQ-dZzQg-RExBY12Ylkk0__xvcv6jCzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
